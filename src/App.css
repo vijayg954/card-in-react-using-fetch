@@ -1,0 +1,19 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  background-color: rgb(112, 216, 77);
+  margin: 10px;
+  max-width: 350px;
+  text-align: center;
+  border: 5px solid red;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(95, 124, 164);
+  flex-wrap: wrap;
+}
